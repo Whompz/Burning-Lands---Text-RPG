@@ -1,0 +1,6 @@
+{
+  "name": "Burning Sun V2",
+  "description": "A state-of-the-art interactive RPG simulation with custom character generation, world building, and dynamic story mechanics managed by The Guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
